@@ -1,0 +1,15 @@
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\lectures\lecture_2_2\example08_IntroMethod\bin\Debug\net6.0\example08_IntroMethod.exe
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\lectures\lecture_2_2\example08_IntroMethod\bin\Debug\net6.0\example08_IntroMethod.deps.json
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\lectures\lecture_2_2\example08_IntroMethod\bin\Debug\net6.0\example08_IntroMethod.runtimeconfig.json
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\lectures\lecture_2_2\example08_IntroMethod\bin\Debug\net6.0\example08_IntroMethod.dll
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\lectures\lecture_2_2\example08_IntroMethod\bin\Debug\net6.0\example08_IntroMethod.pdb
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\lectures\lecture_2_2\example08_IntroMethod\obj\Debug\net6.0\example08_IntroMethod.csproj.AssemblyReference.cache
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\lectures\lecture_2_2\example08_IntroMethod\obj\Debug\net6.0\example08_IntroMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\lectures\lecture_2_2\example08_IntroMethod\obj\Debug\net6.0\example08_IntroMethod.AssemblyInfoInputs.cache
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\lectures\lecture_2_2\example08_IntroMethod\obj\Debug\net6.0\example08_IntroMethod.AssemblyInfo.cs
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\lectures\lecture_2_2\example08_IntroMethod\obj\Debug\net6.0\example08_IntroMethod.csproj.CoreCompileInputs.cache
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\lectures\lecture_2_2\example08_IntroMethod\obj\Debug\net6.0\example08_IntroMethod.dll
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\lectures\lecture_2_2\example08_IntroMethod\obj\Debug\net6.0\refint\example08_IntroMethod.dll
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\lectures\lecture_2_2\example08_IntroMethod\obj\Debug\net6.0\example08_IntroMethod.pdb
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\lectures\lecture_2_2\example08_IntroMethod\obj\Debug\net6.0\example08_IntroMethod.genruntimeconfig.cache
+D:\ПРОГРАММИРОВАНИЕ\GEEK_BRAINS\РАЗРАБОТЧИК GeekBrains\EDUCATION\C#\lectures\lecture_2_2\example08_IntroMethod\obj\Debug\net6.0\ref\example08_IntroMethod.dll
